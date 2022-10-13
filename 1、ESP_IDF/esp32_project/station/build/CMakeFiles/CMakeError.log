@@ -1,0 +1,12 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/86135/station/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/86135/Espressif/tools/ninja/1.10.2/ninja.exe cmTC_2fc4b && [1/2] Building C object CMakeFiles/cmTC_2fc4b.dir/testCCompiler.c.obj
+FAILED: CMakeFiles/cmTC_2fc4b.dir/testCCompiler.c.obj 
+D:\86135\Espressif\tools\xtensa-esp32-elf\esp-2021r2-patch3-8.4.0\xtensa-esp32-elf\bin\xtensa-esp32-elf-gcc.exe   -mlongcalls -Wno-frame-address -o CMakeFiles/cmTC_2fc4b.dir/testCCompiler.c.obj   -c testCCompiler.c
+Assembler messages:
+Fatal error: can't create CMakeFiles/cmTC_2fc4b.dir/testCCompiler.c.obj: No such file or directory
+ninja: build stopped: subcommand failed.
+
+
+

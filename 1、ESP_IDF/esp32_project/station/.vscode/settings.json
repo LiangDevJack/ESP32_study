@@ -1,0 +1,16 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.portWin": "COM3",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ],
+  "idf.flashType": "UART",
+  "files.associations": {
+    "*.inc": "c",
+    "sys.h": "c",
+    "esp_http_client.h": "c",
+    "nvs_flash.h": "c",
+    "*.ipp": "c"
+  }
+}
